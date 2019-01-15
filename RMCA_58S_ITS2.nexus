@@ -1,0 +1,129 @@
+#NEXUS
+
+BEGIN DATA;
+DIMENSIONS  NTAX=102 NCHAR=191;
+FORMAT DATATYPE=DNA GAP=- MISSING=?;
+MATRIX
+
+Corvomeyenia_sp_DQ178649                               ------cacgtctgtctgagcgtccgtttcgtttagtg-c-g-tgc---ctcctcccccttcgccccccccggcgggcgagg--aggag---gaggaa-------ggagcgcg-cg-------c-gcg-tcgagg-cgt-cgt-ccggtg------ca-----cgggcgtcccttcaagtgcgcgaa----
+GW2356_29_ITS1_ITS2_ms                                 ------cacgtctgtctgagcgtccgtttcgtttacgg-c-g-cgct--ctcctc-gctc-------------------gga-tcgga----gcgagg-------ggggcgcg-cg-------c-gcg-tcgagg-cgt-cgt-ccggggccgggcca-----cgggcgtcccttcaagtgcgcgaa----
+GW7420_RMCA134_Metania_lissostrongyla_PARA             ------cacgtctgtctgagcgtccgtttcgtttacgg-c-g-cgct--ctcctc-gctc-------------------gga-tcgga----gcgagg-------ggggcgcg-cg-------c-gcg-tcgagg-cgt-cgt-ccggggccgggcca-----cgggcgtcccttcaagt--gcgaa----
+GW27078_Drulia_browni                                  -----gcacgtctgtctgagcgtccgtttctattactgtc---cttc--gatgga-tgaaggcctgggcctttcaacccagg-cgtcc-----------------ttc--gac-ggg------c-gtg-ttgagg-agt-cgt-ccggga------aac----cgggcgtcccttcaagt--gcgaaga--
+Drulia_browni_FN600370                                 ------cacgtctgtctgagcgtccgtttctattactgtc---ct-c--gacgg----aagcgctgggccttcta-cccagg-cgtcc-----------------ttc--gac-ggg------c-gtg-ttgagg-agt-cgt-ccggga------aac----ggggcgtcccttgaagt--gcgaa----
+GW27123_Spongillina_sp                                 ----------------------------------------------------------aagtgctgggccttgtaagccagg-cgtcc----------------tttc--gac-ggg------c-gtg-ttgagg-agt-cgt-ccggga------aa-----cgggcgtcccttgaagt--gcgaa----
+GW27084_Metania_reticulata_ITS1                        ----tgcacgtcygtctgagcgtccgtttctgtc-ctgtc---gt-c--gaggg----aagcgctggg--atttatcccagc-cgtcc-----------------ctc--gac-ggt------c-gtg-ttgagg-cgt-cgt-ccggga-------a-----cgggcgtcccttcaagt--gcgaa----
+SM0151_GW27132_Spongillina_sp_PCR027_1180              -----------------------------------------------------------------ggg--atttatccca-c-cgtcc-----------------ctc--gac-g-t------c-gtg-ttgag--cgt-cgt-ccggga-------------cgggcgtcccttc-agt--gcg-a----
+GW2355_29_ITS1_ITS2                                    ------cacgtctgtctgagcgtccgtttcgttt-cagtc-g-atcc------------------------------------cgaac---at-cgc--------ttcgggac-gg-------c-gag-ttgagg-tgt-cgttccgcga-------------ggggcgtcccttgaagt--gcgaa----
+GW2357_ITS1_ms                                         ----tgcacgtctgtctgagcgtccgtttcgttt-cagtc-g-atcc------------------------------------cgaac---at-cgc--------nnnn--ac-gg-------c-gag-ttgagg-tgt-cgttccgcga-------------ggggcgtccc-ttsagt--gcg------
+GW7467_RMCA1427_Malawispongia_echinoides_ITS1          ------cacgtctgtctgagcgtccgtttcgttt-cagtc-g-atcc------------------------------------cgaac---at-cgc--------ttcgggac-gg-------c-gag-ttgagg-tgt-cgttccgcga-------------ggggcgtcccttsaagt--gcgaa----
+GW7466_RMCA1426_Malawispongia_echinoides_ITS1          ------cacgtctgtctgagcgtccgtttcgttt-cagtc-g-atcc------------------------------------cgaac---at-cgc--------ttcgggac-gg-------c-gag-ttgagg-tgt-cgttccgcga-------------ggggcgtcccttsaagt--gcgaa----
+Malawispongia_echinoides_POR9581_ITS                   ------cacgtctgtctgagcgtccgtttcgttt-cagtc-g-atcc------------------------------------cgaac---at-cgc--------ttcgggac-gg-------c-gag-ttgagg-tgt-cgttccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_sp_JF816198                                   ------cacgtctgtctgagcgtccgtttcgttt-aagtc-c-atcc------------------------------------cgaac---acaagc--------gtcgggac-gg-------c-gag-ttgagg-tgt-cgttccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_sp_JF816197                                   ------cacgtctgtctgagcgtccgtttcgttt-aagtc-g-atcc------------------------------------cgaac---acaagc--------gtcgggac-gg-------c-gag-ttgagg-tgt-cgttccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_sp_JF816196                                   ------cacgtctgtctgagcgtccgtttcgttt-aagtc-g-atcc------------------------------------cgaac---acaakc--------gtcgggac-gg-------c-gag-ttgagg-tgt-cgttccgcga-------------ggggcgtcccttgaagt--gcgaa----
+GW7443_RMCA433_Spongilla_moorei_ITS1_sm                ------cacgtctgtctgagcgtccgtttcgttt-aagtc-g-atcc------------------------------------cgaac---acaagc--------gtcgggac-gg-------c-gag-ttgagg-tgt-cgttccgcga-------------ggggcgtcccttcaagt--gcgaa----
+GW7442_RMCA413_Spongilla_moorei_ITS1_1180_sm           tgcatgcacgtctgtgcgtgcgtccgtttcgttt-aagtc-g-atcc------------------------------------cgaac---acaagc--------gtcgggac-gg-------c-gag-ttgagg-tgt-cgttccgcga-------------ggggcgtcccttcaagt--gc-------
+Radiospongilla_sendaj_EF151954                         ------cacgtctgtctgagcgtccgtttcgtttt-gtgt-cttctg--c-gtcg-g----------------------cgtt-ccga----ccg----------acggggag-g--------c-gcg-ttgagg-cgt-cgt-ccg-gt-----cca-----cgggcgtcccttgaagt--gcgaa----
+Radiospongilla_crateriformis_EF151952                  ------cacgtctgtctgagcgtccgtttccttttggcgt-c-tccg--c-gtcggg---------cggtcttc-----gag-accga----ccgacgg------acggggag-gcgc-----g-tcg-ttgagg-cgt-cgt-ccgaaa------tt-----cgggcgtcccttgaaga--gcgaa----
+Trochospongilla_pennsylvanica_DQ178650                 ------cacgtctgtctgagcgtccgtttccttttggtct-c-tc-g--cccggc----------------------------ctgtt----tggcac--------gggcgagagg-------c-gcg-ttgagg-cgt-cgt-cctcgc-----accg-tcgggggcgtcccttgaagtg-gcgaa----
+Trochospongilla_latouchiana_EF151955                   ------cacgtctgtctgagcgtccgtttccttttggtct-c-tc-g--ccaact----------------------------ttttt----aaaacgaagt---tggggtta-gg-------c-gcg-ttgagg-cgt-cgt-cctcgc-----accg-tcgggggcgtcccttgaagtg-gcgaa----
+Trochospongilla_horrida_POR20942_ITS                   ------cacgtctgtctgagcgtccgtttccttt-ggcct-c-gccc--gctcgg----------------------------ctttc----atctaagcacgcggcgggcaa-gg-------c-gcg-atgagg-tgt-cgt-cctcgc--------------gggcgtcccttgaagtg-gcgaa----
+Nudospongilla_sp_GB1283_ZMA_POR16905_16_20_2           ------cacgtctgtctgagcgtccgtttccttt-ggcct-c-gccc--gctcgg----------------------------ctttc----atctaagcacgcggcgggcaa-gg-------c-gcg-atgagg-tgt-cgt-cctcgc--------------gggcgtcccttgaagtg-gcgaa----
+Echinospongilla_brichardi_EF418032                     ------cacgtctgtctgagcgtccgtttcctct-ttgggcc-ccct--ttctct------------------------atttc----gttaga-----------ggaaagag-ac-------c-gcg-ctgagg-cgt-cgt-ccgcgt-----agg-----cgggcgtcccttgaagc--gtctt----
+Potamolepis_sp_AY662507                                ------cacgtctgtctgagcgtccgtttcctct-ttggg-c-ccct--ttctct------------------------atttc----gttaga-----------ggaaagag-ac-------c-gcg-ctgagg-tgt-cgt-ccgcgt-----agg-----cgggcgtcccttgaagc--gtctt----
+Oncosclera_sp_JF816192                                 ------cacgtctgtctgagcgtccgtttcctct-ttggg-c-ccct--ttctct------------------------atttc----gttaga-----------ggaaagag-gc-------c-gcg-ctgagg-cgt-cgt-ccgcgt-----agg-----cgggcgtcccttgaagc--gtctt----
+Oncosclera_sp_JF816193                                 ------cacgtctgtctgagcgtccgtttcctct-ttggg-c-ccct--ttctct------------------------atttc----gttaga-----------ggaaagag-gc-------c-gcg-ctgagg-cgt-cgt-ccgcgt-----agg-----cgggcgtcccttgaagc--gtctt----
+GW7469_RMCA1431_Spinospongilla_polli_HOLO              ------cacgtctgtctgagcgtccgtttcctct-ttggg-c-ccct--ttctct------------------------atttc----gttaga-----------ggaaagag-gc-------c-gcg-ctgagg-cgt-cgt-ccgcgt-----agg-----cgggcgtcccttgaagt--gcgaa----
+GW7453_RMCA1317_Potamophloios_sangoloensis_ITS1        ------cacgtctgtctgagcgtccgtttcctct-ttggg-c-ccct--ttctct------------------------atttc----gttaga------------gaaagag-gc-------c-gcg-ctgagg-cgt-cgt-ccgcgt-----acg-----cgggcgtcccttcaagt--gcgaa----
+GW7454_RMCA1318_Potamophloios_hispida_ITS1_1180_diff   ----------tctgtctgagcgtccgtttcctct-ttnnn-n-nnnn--nnnnnt------------------------atttc----gttaga------------gaaagag-gc-------c-gcg-ctgagg-cgt-cgt-ccgcgt-----acg-----cgggcgtcccttcaagt--gcgaagaa-
+GW2354_29_ITS1_ITS2                                    ------cacgtctgtctgagcgtccgtttcaa-t-ctgtcgggactc--tcgat--gcgt-----------------------cgaag----a-----------gctccgg-c-ga-------t-acg--tgagg-cgt-cgtcccgtgg-------a-----ggggcgtcccttgaagt--gcgaa----
+GW7422_RMCA144_Potamolepis_marshalli_ITS1_sm           ------cacgtctgtctgagcgtccgtttcaa-t-ctgtcgggactc--tcgat--gcgt-----------------------cgaag----a-----------gctccgg-c-ga-------t-acg--tgagg-cgt-cgtcccgtgg-------a-----ggggcgtcccttcaagt--gcgaa----
+GW7423_RMCA195_Potamolepis_pechueli_ITS1               ------cacgtctgtctgagcgtccgtttcaa-t-ctgtcgggactc--tcgat--gcgt-----------------------cgaag----a-----------gctccgg-c-ga-------t-acg--tgagg-cgt-cgtcccgtgg-------a-----ggggcgtcccttcaagt--gcgaa----
+GW2358_29_ITS1_ITS2                                    ------cacgtctgtctgagcgtccgtttcaa-t-ctgtcgggactc--tcgat--gcgt-----------------------cgaag----a-----------gctccgg-c-ga-------t-acg--tgagg-cgt-cgtcccgtgg-------a-----ggggcgtcccttgaagt--gcgaa----
+Eunapius_sp_EF151934                                   ------cacgtctgtctgagcgtccgtttcgttt-cagtc-g-atcc------------------------------------cga-c---atcgc---------gtcgggac-gg-------c-gcg-ttgagg-agt-cgttccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_ryensis_EF151948                              ------cacgtctgtctgagcgtccgtttcgttt-cagtc-g-atcc------------------------------------cga-c---atcgc---------gttgggac-gg-------c-gtg-ttgagg-agt-cgttccgcaa-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_coniferus_EF151939                            ------cacgtctgtctgagcgtccgtttcgttt-cagtc-g-atcc------------------------------------cga-c---atcgc---------gttgggac-gg-------c-gtg-ttgagg-agt-cgttccgcaa-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_sp_EF151946                                   ------cacgtctgtctgagcgtccgtttcgttt-acgtc-g-atcc--gtactc-gcg----cttt----------------cgagc----gcgcaa-------gtccggac-gg-------c-gcg-ttgagg-cgt-cgtcccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_sp_EF151937                                   ------cacgtctgtctgagcgtccgtttcgttt-acgtc-g-atcc--gtactc-gcg----cttt----------------cgagc----gcgcaa-------gtccggac-gg-------c-gcg-ttgagg-cgt-cgtcccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_sp_EF151950                                   ------cacgtctgtctgagcgtccgtttcgttt-acgtc-g-atcc--gtactc-gcg----cttt----------------cgagc----gcgcaa-------gtccggac-gg-------c-gcg-ttgagg-cgt-cgtcccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_sp_JF816194                                   ------cacgtctgtctgagcgtccgtttcgttt-aagtc-g-atcc------------------------------------cgaac---atagc---------gtcgggac-gg-------c-gag-ttgagg-tgt-cgttccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_sp_JF816195                                   ------cacgtctgtctgagcgtccgtttcgttt-aagtc-g-atcc------------------------------------cgaac---atagc---------gtcgggac-gg-------c-gag-ttgagg-tgt-cgttccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_sp_EF151943                                   ------cacgtctgtctgagcgtccgtttcgttt-acgtc-g-atcc--gtactc-gcg----cttt----------------cgagc----gcgcaa-------gtccggac-gg-------c-gcg-ttgagg-cgt-cgtcccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_sp_AY662508                                   ------cacgtctgtctgagcgtccgtttcgttt-acgtc-g-atcc--gtactc-gcg----cttt----------------cgagc----gcgcaa-------gtccggac-gg-------c-gcg-ttgagg-cgt-cgtcccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_fragilis_DQ178651                             ------cacgtctgtctgagcgtccgtttcgttt-acgta-g-atcc--gtactc-gcg----cttt----------------cgagc----gcgcaa-------gtccggac-gg-------c-gcg-ttgagg-cgt-cgtcccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Eunapius_sinensis_EF151949                             ------cacgtctgtctgagcgtccgtttcgttt-acgtc-g-atcc--gcactc-gcgctg-cttt----------------cgagc----gcgcaa-------gtccggac-gg-------c-gcg-ttgagg-cgt-cgtcccgcga-------------ggggcgtcccttgaagt--gcgaa----
+Radiospongilla_cerebellata_EF151953                    ------cacgtctgtctgagcgtccgtttcgttt-cgcgt-c-tctc-----gtctgg-----gatcgcttttcc----aaa-attcg------a-----------tccggac-gg-gagcagc-ggg-ttgagg-cgt-cgt-ccgcaa------gac-acgcgggcgtcccttgaagt--gcgaa----
+Radiospongilla_cerebellata_EF151938                    ------cacgtctgtctgagcgtccgtttcgttt-cgcgt-c-tctc-----gtccgg-----gatcgcttttcc----aaa-attcg------a-----------tccggac-gg-gagcagc-ggg-ttgagg-cgt-cgt-ccgcaa------gac-acgcgggcgtcccttgaagt--gcgaa----
+Heterorotula_multidentata_EF151941                     ------cacgtctgtctgagcgtccgtttcgttt-ctgtc-t-cccc---ggcga-gcgttt------------aatttaaa-cgttg----ttacg--------tcggtggt-gg-------a-gcg-ttgagg-cgt-cgt-ccgga-------ga-----cgggcgtcccttcaagt--gcgaa----
+Heterorotula_multidentata_EF151936_3                   ------cacgtctgtctgagcgtccgtttcgttt-ctgtc-t-cccc---ggcga-gcgttt------------aatttaaa-cgttg----ttacg--------tcggtggt-gg-------c-gcg-ttgagg-cgt-cgt-ccgga-------ga-----cgggcgtcccttcaagt--gcgaa----
+Ephydatia_fluviatilis_KC244007_30                      ------cacgtctgtctgagcgtccgtttcgttttccgtc-t-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_fluviatilis_KC244048_33                      ------cacgtctgtctgagcgtccgtttcgttt-ccgtc-t-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_sp_FJ719111                                  ------cacgtctgtctgagcgtccgtttcgttttccgtc-tccccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_fluviatilis_KC244011                         ------cacgtctgtctgagcgtccgtttcgttt-ccgtc-t-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-cgggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_fluviatilis_KC244020                         ------cacgtctgtctgagcgtccgtttcgttttccgtc-t-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------ag-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_fluviatilis_KC244026                         ------cacgtctgtctgagcgtccgtttcgttttccgtc-t-cccc---tgcgg-gcgttc-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_sp_FJ719108                                  ------cacgtctgtctgagcgtccgtttcgttttccgtc-tccccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_fluviatilis_AJ705048                         ------cacgtctgtctgagcgtccgtttcgttttccgtc-tccccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_sp_FJ719110                                  ------cacgtctgtctgagcgtccgtttcgttt-ccgtc-t-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_sp_AM950187                                  ------cacgtctgtctgagcgtccgtttcgttt-ccgtc-t-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Cortispongilla_barroisi_JN116241_3                     ------cacgtctgtctgagcgtccgtttcgttt-ccgtc-t-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_syriaca_JN116239_7                           ------cacgtctgtctgagcgtccgtttcgttt-ccgtc-t-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_sp_GU190369_12                               ------cacgtctgtctgagcgtccgtttcgttt-ccgtc-t-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_fluviatilis_KC244041                         ------cacgtctgtctgagcgtccgtttcgttt-ccgtc-t-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgga----
+Ephydatia_fluviatilis_EF151951                         ------cacgtctgtctgagcgtccgtttcgttt-ccgtc-c-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-ga-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ochridospongilla_rotunda_FW695                         c---tgcacgtctgtctgagcgtccgtttcgttt-ccgtc-t-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-ga-------c-gcg-ttgagg-cgt-cgt-ccggac------ca-----cgggcgtcccttsaagt--gcgaagcag
+Ephydatia_fluviatilis_EF151942                         ------cacgtctgtctgagcgtccgtttcgttt-ccgtc-t-cccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcgc-------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_sp_AM950185_1                                ------cacgtctgtctgagcgtccgtttcgttt-ccgtc-t--ccc---tgcgg-gcgttt-gcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_cooperensis_DQ178652                         ------cacgtctgtctgagcgtccgtttcgttt-ccgtc-t-cccc---tgcgg-gcgtttggcttc-----aaacccaaa-cgttt----cttcg--------caggcggt-ga-------c-gcg-ttgaggccgt-cgt-ccggac------aa-----cgggcgtcccttgaagt--gcgaa----
+Ephydatia_muelleri_EF151932_2                          ------cacgtctgtctgagcgtccgtttcgttt-ctgtc-t-ccccgggcttgg-gcgtttt----------aaacgacgt-tccaa----gtgct--------ccggcggt-gg-------c-gtg-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Ephydatia_muelleri_EF534499_2                          ------cacgtctgtctgagcgtccgtttcgttt-ctgtc-t-cccc-ggcttgg-gcgtttt----------aaacgacgt-tccaa----gtgct--------ccggcggt-gg-------c-gtg-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Ephydatia_muelleri_DQ178654                            ------cacgtctgtctgagcgtccgtttcgttt-ctgtc-t-cccc-ggcttgg-gcgtttt---------aaaacgacgt-tccca----gtgct--------ccggcggt-gg-------c-gcg-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Lubomirskia_incrustans_DQ778324                        ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaataacgtcc----ccgggg-------agcgtggt-gg-------c-aag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Baikalospongia_intermedia_KR347130                     ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Lubomirskia_baicalensis_AM948957_6                     ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Baikalospongia_martinsoni_KR347129_1                   ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Baikalospongia_robusta_AY662503                        ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Baikalospongia_bacillifera_AM949590_4                  ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Rezinkovia_abietina_AY662502                           ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Rezinkovia_echinata_DQ778326                           ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Lubomirskia_fusifera_DQ778327_2                        ------cacgtgtgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Baikalospongia_fungiformis_DQ778328                    ------cacgtgtgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Baikalospongia_recta_DQ778323                          ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-agtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtccctttaagt--gcgaa----
+Baikalospongia_martinsoni_KF977187                     ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-agtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtccctttaagt--gcgaa----
+Lubomirskia_abietina_DQ778321                          ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-agtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Swartschewskia_papyracea_DQ778325_3                    ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcctgggggat--------------ctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Baikalospongia_intermedia_AY662500                     ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Baikalospongia_intermedia_KF977186                     ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-agtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Baikalospongia_intermedia_KR347127                     ------cacgtctgtctgagcgtccgtttcgtct-attgctt-tccc--actcct-ggggat--------------ctaata-agtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ra-----cgggcgtccctttaagt--gcgaa----
+Baikalospongia_intermedia_KR347124                     ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-agtcc----ccgggg-------agtgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Baikalospongia_intermedia_profundalis_KR347132         ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actccctggggat--------------ctaata-agtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-ckt-ccggc-------ga-----cgggcgtccctttaagt--gcgaa----
+Baikalospongia_intermedia_profundalis_KR347126         ------cacgtctgtctgagcgtccgtttcgtct-attgctt-tccc--actcct-ggggat--------------ctaata-agtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtccctttaagt--gcgaa----
+Baikalospongia_intermedia_profundalis_KF977185_1       ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-agtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtccctttaagt--gcgaa----
+Baikalospongia_intermedia_KR347128                     ------cacgtctgtctgagcgtccgtttcgtct-attgctt-tccc--actcct-ggggat--------------ctaata-agtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtccctttaagt--gcgaa----
+Baikalospongia_martinsoni_DQ778320                     ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat-------------cctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-tttagg-cgt-tgt-ccggc-------ga-----cgggggtcccttcaagt--gcgaa----
+Baikalospongia_intermedia_F151931                      ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actccttggggat--------------ctaataaagtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Baikalospongia_bacillifera_AM949591                    ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actccttggggat--------------ctaataaagtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------ga-----cgggcgtcccttcaagt--gcgaa----
+Lubomirskia_baicalensis_AM949593                       ------cacgtctgtctgagcgtccgtttcgtct-attgc-t-tccc--actcct-ggggat--------------ctaata-cgtcc----ccgggg-------agcgtggt-gg-------c-gag-ttgagg-cgt-cgt-ccggc-------gac----cgggcgtcccttcaagt--gcgaa----
+Spongilla_lacustris_AJ703890_3                         ------cacgtctgtctgagcgtccgtttcgttt-ctgtc-c-cacc--gggcac-tcgtgt-------------------------------------------ccggctgc-ga-------c-gtg-ttgagg-cgt-cgt-ccggcc------aaa-ccccgggcgtcccttgaagt--gcgaa----
+Spongilla_lacustris_EF151945_2                         ------cacgtctgtctgagcgtccgtttcgttt-ctgtc-c-cacc--gggcac-tcgtgt-------------------------------------------ccggctgc-ga-------c-gtg-ttgagg-cgt-cgt-ccggcc------aaacccccgggcgtcccttgaagt--gcgaa----
+GW27065_Spongilla_lacustris_ITS1_sm                    ----tgcacgtctgtctgagcgtccgtttcgttt-ctgtc-c-cacc--gggcac-tcgtgt-------------------------------------------ccggctgc-ga-------ctgtg-ttgagg-cgt-cgt-ccggcc------aaa-ccccgggcgtcccttsaagt--gcgaaga--
+;
+
+END;
+
+BEGIN ASSUMPTIONS;
+EXSET * UNTITLED  =  1-30 180-213;
+END;
+
+BEGIN CODONS;
+CODONPOSSET * CodonPositions =
+ N:,
+ 1: 1-190\3,
+ 2: 2-191\3,
+ 3: 3-189\3;
+CODESET  * UNTITLED = Universal: all ;
+END;
+
+BEGIN SETS;
+END;
+
